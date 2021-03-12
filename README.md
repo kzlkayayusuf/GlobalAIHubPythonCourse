@@ -6,9 +6,9 @@
 **Surname:** KIZILKAYA  
 **Email:** yusuf.kizilkaya94@erzurum.edu.tr  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+  
 
-## Project Name
+## Project Name: Knowledge competition
 Description of your project.
 
 ## Requirements
