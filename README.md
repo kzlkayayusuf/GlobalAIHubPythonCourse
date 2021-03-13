@@ -9,15 +9,8 @@
   
 
 ## Project Name: Knowledge competition
-Description of your project.
+Description of project: Application about the history of Turkiye
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
 
 ### Certification
 ![](img/TopLearnerCertificate.png)
